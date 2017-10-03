@@ -1,1 +1,1 @@
-#Mini Projects involving Inferential Statistics, EDA and modelling.
+##Mini Projects involving Inferential Statistics, EDA and modelling.
